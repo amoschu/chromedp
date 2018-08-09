@@ -1,3 +1,5 @@
+### This is a fork of [chromedp/chromedp](https://github.com/chromedp/chromedp) that provides a fix for headless mode leaving stray Chrome processes running after calling CDP.Shutdown().
+
 # About chromedp [![Build Status][1]][2] [![Coverage Status][3]][4]
 
 Package chromedp is a faster, simpler way to drive browsers supporting the
@@ -9,7 +11,7 @@ Package chromedp is a faster, simpler way to drive browsers supporting the
 Install in the usual Go way:
 
 ```sh
-go get -u github.com/chromedp/chromedp
+go get -u github.com/amoschu/chromedp
 ```
 
 ## Examples
