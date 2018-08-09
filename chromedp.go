@@ -17,7 +17,7 @@ import (
 	"github.com/chromedp/cdproto/cdp"
 
 	"github.com/chromedp/chromedp/client"
-	"github.com/chromedp/chromedp/runner"
+	"github.com/amoschu/chromedp/runner"
 )
 
 const (
