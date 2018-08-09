@@ -16,7 +16,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/chromedp/chromedp/kb"
+	"github.com/amoschu/chromedp/kb"
 )
 
 var (
@@ -56,7 +56,7 @@ const (
 // DOM keys.
 const (
 	%s)
-	
+
 // Keys is the map of unicode characters to their DOM key data.
 var Keys = map[rune]*Key{
 	%s}

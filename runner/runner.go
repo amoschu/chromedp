@@ -10,7 +10,7 @@ import (
 	"regexp"
 	"sync"
 
-	"github.com/chromedp/chromedp/client"
+	"github.com/amoschu/chromedp/client"
 )
 
 const (

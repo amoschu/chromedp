@@ -16,7 +16,7 @@ import (
 
 	"github.com/chromedp/cdproto/cdp"
 
-	"github.com/chromedp/chromedp/client"
+	"github.com/amoschu/chromedp/client"
 	"github.com/amoschu/chromedp/runner"
 )
 
